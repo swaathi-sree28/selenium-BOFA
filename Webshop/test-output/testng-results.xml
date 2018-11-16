@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26553" started-at="2018-11-14T11:09:22Z" finished-at="2018-11-14T11:09:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26553" started-at="2018-11-14T11:09:22Z" finished-at="2018-11-14T11:09:49Z">
+      <class name="com.Webshop.demoToursAut$flightTours">
+        <test-method status="PASS" signature="flightDemo()[pri:0, instance:com.Webshop.demoToursAut$flightTours@573f2bb1]" name="flightDemo" duration-ms="26522" started-at="2018-11-14T11:09:23Z" finished-at="2018-11-14T11:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightDemo -->
+      </class> <!-- com.Webshop.demoToursAut$flightTours -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
